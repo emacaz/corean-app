@@ -3,54 +3,64 @@
     {
       "korean": "안녕하세요, 교회에 오신 것을 환영합니다.",
       "english": "Hello, welcome to the church!",
-      "image": "welcome.jpg"
+      "image": "welcome.jpg",
+      "audio": "welcome.mp3"
     },
     {
       "korean": "오늘의 말씀을 들으러 오셨나요?",
       "english": "Did you come to hear today's sermon?",
-      "image": "listen.png"
+      "image": "listen.png",
+      "audio": "listen.mp3"
     },
     {
       "korean": "기도하러 가실래요?",
       "english": "Do you want to go pray?",
-      "image": "pray.jpg"
+      "image": "pray.jpg",
+      "audio": "pray.mp3"
     },
     {
       "korean": "찬양을 부릅시다.",
       "english": "Let's sing a hymn.",
-      "image": "sing.jpg"
+      "image": "sing.jpg",
+      "audio": "sing.mp3"
     },
     {
       "korean": "예배는 몇 시에 시작하나요?",
       "english": "What time does the service start?",
-      "image": "start.jpg"
+      "image": "start.jpg",
+      "audio": "start.mp3"
     }
   ],
   "Food": [
     {
       "korean": "간식을 먹고 싶어요.",
       "english": "Quiero comer un bocadillo.",
-      "image": "snack.jpg"
+      "image": "snack.jpg",
+      "audio": "snack.mp3"
     },
     {
       "korean": "이 수프는 아주 뜨거워요.",
       "english": "Esta sopa está muy caliente.",
-      "image": "soup.jpg"
+      "image": "soup.jpg",
+      "audio": "soup.mp3"
     },
     {
       "korean": "커피 한 잔 마셔도 될까요?",
       "english": "¿Puedo tomar una taza de café?",
-      "image": "coffee.jpg"
+      "image": "coffee.jpg",
+      "audio": "coffee.mp3"
     },
     {
       "korean": "저녁을 같이 요리합시다.",
       "english": "Cocinemos la cena juntos.",
-      "image": "dinner.jpg"
+      "image": "dinner.jpg",
+      "audio": "dinner.mp3"
     },
     {
       "korean": "음식 냄새가 맛있어요.",
       "english": "La comida huele deliciosa.",
-      "image": "delicious.jpg"
+      "image": "delicious.jpg",
+      "audio": "delicious.mp3"
     }
   ],
 
@@ -58,27 +68,32 @@
     {
       "korean": "여행 가고 싶어요.",
       "english": "Quiero ir de viaje.",
-      "image": "trip.jpg"
+      "image": "trip.jpg",
+      "audio": "trip.mp3"
     },
     {
       "korean": "호텔은 어디에 있나요?",
       "english": "¿Dónde está el hotel?",
-      "image": "hotel.jpg"
+      "image": "hotel.jpg",
+      "audio": "hotel.mp3"
     },
     {
       "korean": "관광지를 추천해 주세요.",
       "english": "Por favor, recomienda lugares turísticos.",
-      "image": "tourist.jpg"
+      "image": "tourist.jpg",
+      "audio": "tourist.mp3"
     },
     {
       "korean": "여권을 잊지 마세요.",
       "english": "No olvides tu pasaporte.",
-      "image": "passport.jpg"
+      "image": "passport.jpg",
+      "audio": "passport.mp3"
     },
     {
       "korean": "여행 가방을 싸야 해요.",
       "english": "Necesito empacar mi maleta.",
-      "image": "suitcase.jpg"
+      "image": "suitcase.jpg",
+      "audio": "suitcase.mp3"
     }
   ],
 
@@ -86,27 +101,32 @@
     {
       "korean": "집에 가고 싶어요.",
       "english": "Quiero ir a casa.",
-      "image": "home.jpg"
+      "image": "home.jpg",
+      "audio": "home.mp3"
     },
     {
       "korean": "이 방을 청소해야 해요.",
       "english": "Necesito limpiar esta habitación.",
-      "image": "clean.jpg"
+      "image": "clean.jpg",
+      "audio": "clean.mp3"
     },
     {
       "korean": "거실에서 쉴 거예요.",
       "english": "Voy a descansar en la sala.",
-      "image": "livingroom.jpg"
+      "image": "livingroom.jpg",
+      "audio": "livingroom.mp3"
     },
     {
       "korean": "주방에서 요리할게요.",
       "english": "Cocinaré en la cocina.",
-      "image": "kitchen.jpg"
+      "image": "kitchen.jpg",
+      "audio": "kitchen.mp3"
     },
     {
       "korean": "창문을 열어도 될까요?",
       "english": "¿Puedo abrir la ventana?",
-      "image": "window.jpg"
+      "image": "window.jpg",
+      "audio": "window.mp3"
     }
   ],
 
@@ -114,27 +134,32 @@
     {
       "korean": "오늘 회의가 있어요.",
       "english": "Tenemos una reunión hoy.",
-      "image": "meeting.jpg"
+      "image": "meeting.jpg",
+      "audio": "meeting.mp3"
     },
     {
       "korean": "메일을 확인해야 해요.",
       "english": "Necesito revisar mis correos.",
-      "image": "email.jpg"
+      "image": "email.jpg",
+      "audio": "email.mp3"
     },
     {
       "korean": "프로젝트를 시작합시다.",
       "english": "Comencemos el proyecto.",
-      "image": "project.jpg"
+      "image": "project.jpg",
+      "audio": "project.mp3"
     },
     {
       "korean": "오늘 마감일이에요.",
       "english": "La fecha límite es hoy.",
-      "image": "deadline.jpg"
+      "image": "deadline.jpg",
+      "audio": "deadline.mp3"
     },
     {
       "korean": "컴퓨터가 고장났어요.",
       "english": "La computadora está averiada.",
-      "image": "computer.jpg"
+      "image": "computer.jpg",
+      "audio": "computer.mp3"
     }
   ],
 
@@ -142,27 +167,32 @@
     {
       "korean": "오늘 공부를 시작합시다.",
       "english": "Comencemos a estudiar hoy.",
-      "image": "study.jpg"
+      "image": "study.jpg",
+      "audio": "study.mp3"
     },
     {
       "korean": "책을 읽어야 해요.",
       "english": "Necesito leer el libro.",
-      "image": "book.jpg"
+      "image": "book.jpg",
+      "audio": "book.mp3"
     },
     {
       "korean": "시험 준비가 되었나요?",
       "english": "¿Estás listo para el examen?",
-      "image": "exam.jpg"
+      "image": "exam.jpg",
+      "audio": "exam.mp3"
     },
     {
       "korean": "수업에 늦지 마세요.",
       "english": "No llegues tarde a clase.",
-      "image": "class.jpg"
+      "image": "class.jpg",
+      "audio": "class.mp3"
     },
     {
       "korean": "도서관에서 공부하고 싶어요.",
       "english": "Quiero estudiar en la biblioteca.",
-      "image": "library.jpg"
+      "image": "library.jpg",
+      "audio": "library.mp3"
     }
   ]
 }
