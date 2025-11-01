@@ -1,0 +1,194 @@
+{
+  "Church": [
+    {
+      "mandarin": "你好，欢迎来到教堂！",
+      "english": "Hello, welcome to the church!",
+      "image": "welcome.jpg",
+      "audio": "welcome.mp3"
+    },
+    {
+      "mandarin": "你来听今天的讲道吗？",
+      "english": "Did you come to hear today's sermon?",
+      "image": "listen.png",
+      "audio": "listen.mp3"
+    },
+    {
+      "mandarin": "你想去祷告吗？",
+      "english": "Do you want to go pray?",
+      "image": "pray.jpg",
+      "audio": "pray.mp3"
+    },
+    {
+      "mandarin": "我们来唱赞美诗吧。",
+      "english": "Let's sing a hymn.",
+      "image": "sing.jpg",
+      "audio": "sing.mp3"
+    },
+    {
+      "mandarin": "礼拜什么时候开始？",
+      "english": "What time does the service start?",
+      "image": "start.jpg",
+      "audio": "start.mp3"
+    }
+  ],
+  "Food": [
+    {
+      "mandarin": "我想吃点零食。",
+      "english": "I want to eat a snack.",
+      "image": "snack.jpg",
+      "audio": "snack.mp3"
+    },
+    {
+      "mandarin": "这汤很烫。",
+      "english": "This soup is very hot.",
+      "image": "soup.jpg",
+      "audio": "soup.mp3"
+    },
+    {
+      "mandarin": "我可以喝一杯咖啡吗？",
+      "english": "Can I have a cup of coffee?",
+      "image": "coffee.jpg",
+      "audio": "coffee.mp3"
+    },
+    {
+      "mandarin": "我们一起做晚饭吧。",
+      "english": "Let's cook dinner together.",
+      "image": "dinner.jpg",
+      "audio": "dinner.mp3"
+    },
+    {
+      "mandarin": "食物闻起来很香。",
+      "english": "The food smells delicious.",
+      "image": "delicious.jpg",
+      "audio": "delicious.mp3"
+    }
+  ],
+  "Travel": [
+    {
+      "mandarin": "我想去旅行。",
+      "english": "I want to travel.",
+      "image": "trip.jpg",
+      "audio": "trip.mp3"
+    },
+    {
+      "mandarin": "酒店在哪里？",
+      "english": "Where is the hotel?",
+      "image": "hotel.jpg",
+      "audio": "hotel.mp3"
+    },
+    {
+      "mandarin": "请推荐旅游景点。",
+      "english": "Please recommend tourist attractions.",
+      "image": "tourist.jpg",
+      "audio": "tourist.mp3"
+    },
+    {
+      "mandarin": "不要忘记护照。",
+      "english": "Don't forget your passport.",
+      "image": "passport.jpg",
+      "audio": "passport.mp3"
+    },
+    {
+      "mandarin": "我需要打包行李。",
+      "english": "I need to pack my suitcase.",
+      "image": "suitcase.jpg",
+      "audio": "suitcase.mp3"
+    }
+  ],
+  "Home": [
+    {
+      "mandarin": "我想回家。",
+      "english": "I want to go home.",
+      "image": "home.jpg",
+      "audio": "home.mp3"
+    },
+    {
+      "mandarin": "我需要打扫这个房间。",
+      "english": "I need to clean this room.",
+      "image": "clean.jpg",
+      "audio": "clean.mp3"
+    },
+    {
+      "mandarin": "我将在客厅休息。",
+      "english": "I'm going to rest in the living room.",
+      "image": "livingroom.jpg",
+      "audio": "livingroom.mp3"
+    },
+    {
+      "mandarin": "我将在厨房做饭。",
+      "english": "I will cook in the kitchen.",
+      "image": "kitchen.jpg",
+      "audio": "kitchen.mp3"
+    },
+    {
+      "mandarin": "我可以打开窗户吗？",
+      "english": "Can I open the window?",
+      "image": "window.jpg",
+      "audio": "window.mp3"
+    }
+  ],
+  "Work": [
+    {
+      "mandarin": "我们今天有个会议。",
+      "english": "We have a meeting today.",
+      "image": "meeting.jpg",
+      "audio": "meeting.mp3"
+    },
+    {
+      "mandarin": "我需要查看我的邮件。",
+      "english": "I need to check my emails.",
+      "image": "email.jpg",
+      "audio": "email.mp3"
+    },
+    {
+      "mandarin": "让我们开始项目吧。",
+      "english": "Let's start the project.",
+      "image": "project.jpg",
+      "audio": "project.mp3"
+    },
+    {
+      "mandarin": "截止日期是今天。",
+      "english": "The deadline is today.",
+      "image": "deadline.jpg",
+      "audio": "deadline.mp3"
+    },
+    {
+      "mandarin": "电脑坏了。",
+      "english": "The computer is broken.",
+      "image": "computer.jpg",
+      "audio": "computer.mp3"
+    }
+  ],
+  "Study": [
+    {
+      "mandarin": "今天我们开始学习吧。",
+      "english": "Let's start studying today.",
+      "image": "study.jpg",
+      "audio": "study.mp3"
+    },
+    {
+      "mandarin": "我需要读这本书。",
+      "english": "I need to read the book.",
+      "image": "book.jpg",
+      "audio": "book.mp3"
+    },
+    {
+      "mandarin": "你准备好考试了吗？",
+      "english": "Are you ready for the exam?",
+      "image": "exam.jpg",
+      "audio": "exam.mp3"
+    },
+    {
+      "mandarin": "上课不要迟到。",
+      "english": "Don't be late to class.",
+      "image": "class.jpg",
+      "audio": "class.mp3"
+    },
+    {
+      "mandarin": "我想在图书馆学习。",
+      "english": "I want to study in the library.",
+      "image": "library.jpg",
+      "audio": "library.mp3"
+    }
+  ]
+}
