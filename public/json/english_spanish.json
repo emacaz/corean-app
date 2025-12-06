@@ -1,0 +1,194 @@
+{
+  "Church": [
+    {
+      "english": "Hello, welcome to the church!",
+      "spanish": "¡Hola, bienvenido a la iglesia!",
+      "image": "welcome.jpg",
+      "audio": "welcome.mp3"
+    },
+    {
+      "english": "Did you come to hear today's sermon?",
+      "spanish": "¿Viniste a escuchar el sermón de hoy?",
+      "image": "listen.png",
+      "audio": "listen.mp3"
+    },
+    {
+      "english": "Do you want to go pray?",
+      "spanish": "¿Quieres ir a orar?",
+      "image": "pray.jpg",
+      "audio": "pray.mp3"
+    },
+    {
+      "english": "Let's sing a hymn.",
+      "spanish": "Cantemos un himno.",
+      "image": "sing.jpg",
+      "audio": "sing.mp3"
+    },
+    {
+      "english": "What time does the service start?",
+      "spanish": "¿A qué hora comienza el servicio?",
+      "image": "start.jpg",
+      "audio": "start.mp3"
+    }
+  ],
+  "Food": [
+    {
+      "english": "I want to eat a snack.",
+      "spanish": "Quiero comer un bocadillo.",
+      "image": "snack.jpg",
+      "audio": "snack.mp3"
+    },
+    {
+      "english": "This soup is very hot.",
+      "spanish": "Esta sopa está muy caliente.",
+      "image": "soup.jpg",
+      "audio": "soup.mp3"
+    },
+    {
+      "english": "Can I have a cup of coffee?",
+      "spanish": "¿Puedo tomar una taza de café?",
+      "image": "coffee.jpg",
+      "audio": "coffee.mp3"
+    },
+    {
+      "english": "Let's cook dinner together.",
+      "spanish": "Cocinemos la cena juntos.",
+      "image": "dinner.jpg",
+      "audio": "dinner.mp3"
+    },
+    {
+      "english": "The food smells delicious.",
+      "spanish": "La comida huele deliciosa.",
+      "image": "delicious.jpg",
+      "audio": "delicious.mp3"
+    }
+  ],
+  "Travel": [
+    {
+      "english": "I want to travel.",
+      "spanish": "Quiero ir de viaje.",
+      "image": "trip.jpg",
+      "audio": "trip.mp3"
+    },
+    {
+      "english": "Where is the hotel?",
+      "spanish": "¿Dónde está el hotel?",
+      "image": "hotel.jpg",
+      "audio": "hotel.mp3"
+    },
+    {
+      "english": "Please recommend tourist attractions.",
+      "spanish": "Por favor, recomienda lugares turísticos.",
+      "image": "tourist.jpg",
+      "audio": "tourist.mp3"
+    },
+    {
+      "english": "Don't forget your passport.",
+      "spanish": "No olvides tu pasaporte.",
+      "image": "passport.jpg",
+      "audio": "passport.mp3"
+    },
+    {
+      "english": "I need to pack my suitcase.",
+      "spanish": "Necesito empacar mi maleta.",
+      "image": "suitcase.jpg",
+      "audio": "suitcase.mp3"
+    }
+  ],
+  "Home": [
+    {
+      "english": "I want to go home.",
+      "spanish": "Quiero ir a casa.",
+      "image": "home.jpg",
+      "audio": "home.mp3"
+    },
+    {
+      "english": "I need to clean this room.",
+      "spanish": "Necesito limpiar esta habitación.",
+      "image": "clean.jpg",
+      "audio": "clean.mp3"
+    },
+    {
+      "english": "I'm going to rest in the living room.",
+      "spanish": "Voy a descansar en la sala.",
+      "image": "livingroom.jpg",
+      "audio": "livingroom.mp3"
+    },
+    {
+      "english": "I will cook in the kitchen.",
+      "spanish": "Cocinaré en la cocina.",
+      "image": "kitchen.jpg",
+      "audio": "kitchen.mp3"
+    },
+    {
+      "english": "Can I open the window?",
+      "spanish": "¿Puedo abrir la ventana?",
+      "image": "window.jpg",
+      "audio": "window.mp3"
+    }
+  ],
+  "Work": [
+    {
+      "english": "We have a meeting today.",
+      "spanish": "Tenemos una reunión hoy.",
+      "image": "meeting.jpg",
+      "audio": "meeting.mp3"
+    },
+    {
+      "english": "I need to check my emails.",
+      "spanish": "Necesito revisar mis correos.",
+      "image": "email.jpg",
+      "audio": "email.mp3"
+    },
+    {
+      "english": "Let's start the project.",
+      "spanish": "Comencemos el proyecto.",
+      "image": "project.jpg",
+      "audio": "project.mp3"
+    },
+    {
+      "english": "The deadline is today.",
+      "spanish": "La fecha límite es hoy.",
+      "image": "deadline.jpg",
+      "audio": "deadline.mp3"
+    },
+    {
+      "english": "The computer is broken.",
+      "spanish": "La computadora está averiada.",
+      "image": "computer.jpg",
+      "audio": "computer.mp3"
+    }
+  ],
+  "Study": [
+    {
+      "english": "Let's start studying today.",
+      "spanish": "Comencemos a estudiar hoy.",
+      "image": "study.jpg",
+      "audio": "study.mp3"
+    },
+    {
+      "english": "I need to read the book.",
+      "spanish": "Necesito leer el libro.",
+      "image": "book.jpg",
+      "audio": "book.mp3"
+    },
+    {
+      "english": "Are you ready for the exam?",
+      "spanish": "¿Estás listo para el examen?",
+      "image": "exam.jpg",
+      "audio": "exam.mp3"
+    },
+    {
+      "english": "Don't be late to class.",
+      "spanish": "No llegues tarde a clase.",
+      "image": "class.jpg",
+      "audio": "class.mp3"
+    },
+    {
+      "english": "I want to study in the library.",
+      "spanish": "Quiero estudiar en la biblioteca.",
+      "image": "library.jpg",
+      "audio": "library.mp3"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "Church": [
+    {
+      "turkish": "Merhaba, kiliseye hoş geldiniz!",
+      "portuguese": "Olá, bem-vindo à igreja!",
+      "image": "welcome.jpg",
+      "audio": "welcome.mp3"
+    },
+    {
+      "turkish": "Bugünkü vaazı dinlemeye mi geldiniz?",
+      "portuguese": "Veio ouvir o sermão de hoje?",
+      "image": "listen.png",
+      "audio": "listen.mp3"
+    },
+    {
+      "turkish": "Dua etmeye gitmek ister misiniz?",
+      "portuguese": "Quer ir rezar?",
+      "image": "pray.jpg",
+      "audio": "pray.mp3"
+    },
+    {
+      "turkish": "Hadi bir ilahi söyleyelim.",
+      "portuguese": "Vamos cantar um hino.",
+      "image": "sing.jpg",
+      "audio": "sing.mp3"
+    },
+    {
+      "turkish": "Ayin kaçta başlıyor?",
+      "portuguese": "A que horas começa o culto?",
+      "image": "start.jpg",
+      "audio": "start.mp3"
+    }
+  ],
+  "Food": [
+    {
+      "turkish": "Bir atıştırmalık yemek istiyorum.",
+      "portuguese": "Quero comer um lanche.",
+      "image": "snack.jpg",
+      "audio": "snack.mp3"
+    },
+    {
+      "turkish": "Bu çorba çok sıcak.",
+      "portuguese": "Esta sopa está muito quente.",
+      "image": "soup.jpg",
+      "audio": "soup.mp3"
+    },
+    {
+      "turkish": "Bir fincan kahve alabilir miyim?",
+      "portuguese": "Posso beber uma chávena de café?",
+      "image": "coffee.jpg",
+      "audio": "coffee.mp3"
+    },
+    {
+      "turkish": "Akşam yemeğini birlikte pişirelim.",
+      "portuguese": "Vamos cozinhar o jantar juntos.",
+      "image": "dinner.jpg",
+      "audio": "dinner.mp3"
+    },
+    {
+      "turkish": "Yemek çok güzel kokuyor.",
+      "portuguese": "A comida cheira deliciosamente.",
+      "image": "delicious.jpg",
+      "audio": "delicious.mp3"
+    }
+  ],
+  "Travel": [
+    {
+      "turkish": "Seyahat etmek istiyorum.",
+      "portuguese": "Quero viajar.",
+      "image": "trip.jpg",
+      "audio": "trip.mp3"
+    },
+    {
+      "turkish": "Otel nerede?",
+      "portuguese": "Onde fica o hotel?",
+      "image": "hotel.jpg",
+      "audio": "hotel.mp3"
+    },
+    {
+      "turkish": "Lütfen turist yerlerini önerin.",
+      "portuguese": "Por favor, recomenda pontos turísticos.",
+      "image": "tourist.jpg",
+      "audio": "tourist.mp3"
+    },
+    {
+      "turkish": "Pasaportunuzu unutmayın.",
+      "portuguese": "Não se esqueça do passaporte.",
+      "image": "passport.jpg",
+      "audio": "passport.mp3"
+    },
+    {
+      "turkish": "Valizimi hazırlamam gerekiyor.",
+      "portuguese": "Preciso fazer a mala.",
+      "image": "suitcase.jpg",
+      "audio": "suitcase.mp3"
+    }
+  ],
+  "Home": [
+    {
+      "turkish": "Eve gitmek istiyorum.",
+      "portuguese": "Quero ir para casa.",
+      "image": "home.jpg",
+      "audio": "home.mp3"
+    },
+    {
+      "turkish": "Bu odayı temizlemem gerekiyor.",
+      "portuguese": "Preciso limpar este quarto.",
+      "image": "clean.jpg",
+      "audio": "clean.mp3"
+    },
+    {
+      "turkish": "Oturma odasında dinleneceğim.",
+      "portuguese": "Vou descansar na sala.",
+      "image": "livingroom.jpg",
+      "audio": "livingroom.mp3"
+    },
+    {
+      "turkish": "Mutfakta yemek yapacağım.",
+      "portuguese": "Vou cozinhar na cozinha.",
+      "image": "kitchen.jpg",
+      "audio": "kitchen.mp3"
+    },
+    {
+      "turkish": "Pencereyi açabilir miyim?",
+      "portuguese": "Posso abrir a janela?",
+      "image": "window.jpg",
+      "audio": "window.mp3"
+    }
+  ],
+  "Work": [
+    {
+      "turkish": "Bugün bir toplantımız var.",
+      "portuguese": "Temos uma reunião hoje.",
+      "image": "meeting.jpg",
+      "audio": "meeting.mp3"
+    },
+    {
+      "turkish": "E-postalarımı kontrol etmem gerekiyor.",
+      "portuguese": "Preciso verificar os meus e-mails.",
+      "image": "email.jpg",
+      "audio": "email.mp3"
+    },
+    {
+      "turkish": "Projeye başlayalım.",
+      "portuguese": "Vamos começar o projeto.",
+      "image": "project.jpg",
+      "audio": "project.mp3"
+    },
+    {
+      "turkish": "Teslim tarihi bugün.",
+      "portuguese": "O prazo é hoje.",
+      "image": "deadline.jpg",
+      "audio": "deadline.mp3"
+    },
+    {
+      "turkish": "Bilgisayar bozuldu.",
+      "portuguese": "O computador avariou-se.",
+      "image": "computer.jpg",
+      "audio": "computer.mp3"
+    }
+  ],
+  "Study": [
+    {
+      "turkish": "Bugün çalışmaya başlayalım.",
+      "portuguese": "Vamos começar a estudar hoje.",
+      "image": "study.jpg",
+      "audio": "study.mp3"
+    },
+    {
+      "turkish": "Kitabı okumam gerekiyor.",
+      "portuguese": "Preciso ler o livro.",
+      "image": "book.jpg",
+      "audio": "book.mp3"
+    },
+    {
+      "turkish": "Sınava hazır mısın?",
+      "portuguese": "Estás pronto para o exame?",
+      "image": "exam.jpg",
+      "audio": "exam.mp3"
+    },
+    {
+      "turkish": "Derse geç kalma.",
+      "portuguese": "Não chegues atrasado à aula.",
+      "image": "class.jpg",
+      "audio": "class.mp3"
+    },
+    {
+      "turkish": "Kütüphanede çalışmak istiyorum.",
+      "portuguese": "Quero estudar na biblioteca.",
+      "image": "library.jpg",
+      "audio": "library.mp3"
+    }
+  ]
+}

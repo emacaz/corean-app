@@ -1,0 +1,257 @@
+{
+  "context": "Church",
+  "levels": [
+    {
+      "level": 0,
+      "content": {
+        "korean": "커피",
+        "english": "coffee",
+        "spanish": "café",
+        "french": "café",
+        "chinese": "咖啡",
+        "dutch": "koffie",
+        "german": "Kaffee"
+      }
+    },
+    {
+      "level": 1,
+      "content": {
+        "korean": "커피예요",
+        "english": "It's coffee",
+        "spanish": "Es café",
+        "french": "C'est du café",
+        "chinese": "是咖啡",
+        "dutch": "Het is koffie",
+        "german": "Es ist Kaffee"
+      }
+    },
+    {
+      "level": 2,
+      "content": {
+        "korean": "저는 기도해요",
+        "english": "I pray",
+        "spanish": "Yo oro",
+        "french": "Je prie",
+        "chinese": "我祈祷",
+        "dutch": "Ik bid",
+        "german": "Ich bete"
+      }
+    },
+    {
+      "level": 3,
+      "content": {
+        "korean": "저는 커피를 마셔요",
+        "english": "I drink coffee",
+        "spanish": "Yo tomo café",
+        "french": "Je bois du café",
+        "chinese": "我喝咖啡",
+        "dutch": "Ik drink koffie",
+        "german": "Ich trinke Kaffee"
+      }
+    },
+    {
+      "level": 4,
+      "content": {
+        "korean": "이곳은 교회예요",
+        "english": "This place is a church",
+        "spanish": "Este lugar es una iglesia",
+        "french": "Cet endroit est une église",
+        "chinese": "这是教堂",
+        "dutch": "Deze plaats is een kerk",
+        "german": "Dieser Ort ist eine Kirche"
+      }
+    },
+    {
+      "level": 5,
+      "content": {
+        "korean": "저는 매주 일요일에 교회에 가요",
+        "english": "I go to church every Sunday",
+        "spanish": "Voy a la iglesia todos los domingos",
+        "french": "Je vais à l'église chaque dimanche",
+        "chinese": "我每个星期天去教堂",
+        "dutch": "Ik ga elke zondag naar de kerk",
+        "german": "Ich gehe jeden Sonntag in die Kirche"
+      }
+    },
+    {
+      "level": 6,
+      "content": {
+        "korean": "교회에서 피아노 소리가 들려요",
+        "english": "I hear piano sounds in the church",
+        "spanish": "Oigo el sonido del piano en la iglesia",
+        "french": "J'entends le son du piano à l'église",
+        "chinese": "我在教堂里听到钢琴声",
+        "dutch": "Ik hoor pianoklanken in de kerk",
+        "german": "Ich höre Klavierklänge in der Kirche"
+      }
+    },
+    {
+      "level": 7,
+      "content": {
+        "korean": "사람들이 인사할 때 저는 안녕하세요라고 말해요",
+        "english": "When people greet, I say hello",
+        "spanish": "Cuando la gente saluda, yo digo hola",
+        "french": "Quand les gens saluent, je dis bonjour",
+        "chinese": "当人们打招呼时，我说你好",
+        "dutch": "Wanneer mensen groeten, zeg ik hallo",
+        "german": "Wenn die Leute grüßen, sage ich hallo"
+      }
+    },
+    {
+      "level": 8,
+      "content": {
+        "korean": "처음에는 모든 말을 이해하지 못했어요",
+        "english": "At first, I couldn't understand all the words",
+        "spanish": "Al principio, no podía entender todas las palabras",
+        "french": "Au début, je ne comprenais pas tous les mots",
+        "chinese": "一开始，我听不懂所有的词",
+        "dutch": "In het begin begreep ik niet alle woorden",
+        "german": "Am Anfang verstand ich nicht alle Wörter"
+      }
+    },
+    {
+      "level": 9,
+      "content": {
+        "korean": "하지만 말의 온도와 마음을 느낄 수 있었어요",
+        "english": "But I could feel the warmth and heart in the words",
+        "spanish": "Pero podía sentir el calor y el corazón en las palabras",
+        "french": "Mais je pouvais sentir la chaleur et le cœur dans les mots",
+        "chinese": "但我能感受到语言中的温度和心意",
+        "dutch": "Maar ik kon de warmte en het hart in de woorden voelen",
+        "german": "Aber ich konnte die Wärme und das Herz in den Worten spüren"
+      }
+    },
+    {
+      "level": 10,
+      "content": {
+        "korean": "저는 예배 시간에 듣고, 또 들으며 배우기 시작했어요",
+        "english": "During worship, I listened again and again and began to learn",
+        "spanish": "Durante el culto, escuchaba una y otra vez y empecé a aprender",
+        "french": "Pendant le culte, j'écoutais encore et encore et j'ai commencé à apprendre",
+        "chinese": "在礼拜时，我一遍又一遍地听，开始学习",
+        "dutch": "Tijdens de dienst luisterde ik steeds opnieuw en begon te leren",
+        "german": "Während des Gottesdienstes hörte ich immer wieder zu und begann zu lernen"
+      }
+    },
+    {
+      "level": 11,
+      "content": {
+        "korean": "시간이 지나자 소리가 모양을 가지기 시작했어요. 사람들의 행동을 조금씩 알 수 있었어요",
+        "english": "As time passed, the sounds began to take shape. I started to understand people's actions little by little",
+        "spanish": "Con el tiempo, los sonidos empezaron a tomar forma. Comencé a entender poco a poco las acciones de la gente",
+        "french": "Avec le temps, les sons ont commencé à prendre forme. J'ai commencé à comprendre peu à peu les gestes des gens",
+        "chinese": "随着时间的推移，声音开始有了形状。我渐渐懂得人们的行为",
+        "dutch": "Na verloop van tijd begonnen de geluiden vorm te krijgen. Ik begon langzaam de handelingen van mensen te begrijpen",
+        "german": "Mit der Zeit begannen die Geräusche Gestalt anzunehmen. Ich begann die Handlungen der Menschen nach und nach zu verstehen"
+      }
+    },
+    {
+      "level": 12,
+      "content": {
+        "korean": "저는 사람들이 감사할 때, 기도할 때, 웃을 때를 구별할 수 있었어요",
+        "english": "I could tell when people were thankful, praying, or laughing",
+        "spanish": "Podía distinguir cuándo la gente daba gracias, oraba o reía",
+        "french": "Je pouvais distinguer quand les gens étaient reconnaissants, priaient ou riaient",
+        "chinese": "我能分辨人们是在感恩、祈祷还是在笑",
+        "dutch": "Ik kon zien wanneer mensen dankbaar waren, baden of lachten",
+        "german": "Ich konnte erkennen, wann die Menschen dankbar waren, beteten oder lachten"
+      }
+    },
+    {
+      "level": 13,
+      "content": {
+        "korean": "짧은 말을 따라 하기 시작했어요: 감사해요, 기도해요",
+        "english": "I began to repeat short phrases: Thank you, I pray",
+        "spanish": "Empecé a repetir frases cortas: gracias, oro",
+        "french": "J'ai commencé à répéter de courtes phrases : merci, je prie",
+        "chinese": "我开始跟着说短语：谢谢，我祈祷",
+        "dutch": "Ik begon korte zinnen te herhalen: dank je, ik bid",
+        "german": "Ich begann, kurze Sätze nachzusprechen: danke, ich bete"
+      }
+    },
+    {
+      "level": 14,
+      "content": {
+        "korean": "책으로 외우는 것이 아니라, 삶 속에서 느끼며 배웠어요",
+        "english": "I didn't memorize from books; I learned by feeling it in life",
+        "spanish": "No lo memorizaba de libros; lo aprendí sintiéndolo en la vida",
+        "french": "Je ne l'ai pas appris dans les livres, je l'ai ressenti dans la vie",
+        "chinese": "我不是从书上背的，而是在生活中感受着学习的",
+        "dutch": "Ik leerde het niet uit boeken, maar door het in het leven te voelen",
+        "german": "Ich lernte es nicht aus Büchern, sondern indem ich es im Leben fühlte"
+      }
+    },
+    {
+      "level": 15,
+      "content": {
+        "korean": "예배 시간, 교회 카페, 복도에서 짧은 대화를 나눴어요",
+        "english": "I had short conversations during worship, in the church café, and in the hall",
+        "spanish": "Tuve breves conversaciones durante el culto, en la cafetería de la iglesia y en el pasillo",
+        "french": "J'ai eu de courtes conversations pendant le culte, au café de l'église et dans le couloir",
+        "chinese": "我在礼拜时、教堂咖啡厅和走廊里进行了简短的交谈",
+        "dutch": "Ik had korte gesprekken tijdens de dienst, in het kerkcafé en in de gang",
+        "german": "Ich führte kurze Gespräche während des Gottesdienstes, im Kirchencafé und auf dem Flur"
+      }
+    },
+    {
+      "level": 16,
+      "content": {
+        "korean": "저는 이제 교회 카페에서 한 형제에게 커피를 건네며 자연스럽게 이야기했어요",
+        "english": "Now, I handed coffee to a brother at the church café and spoke naturally",
+        "spanish": "Ahora le entregué un café a un hermano en la cafetería de la iglesia y hablé con naturalidad",
+        "french": "Maintenant, j'ai donné un café à un frère au café de l'église et j'ai parlé naturellement",
+        "chinese": "现在，我在教堂咖啡厅把咖啡递给一位弟兄，自然地交谈",
+        "dutch": "Nu gaf ik een broer in het kerkcafé koffie en sprak ik natuurlijk",
+        "german": "Jetzt reichte ich einem Bruder im Kirchencafé einen Kaffee und sprach ganz natürlich"
+      }
+    },
+    {
+      "level": 17,
+      "content": {
+        "korean": "외워서가 아니라, 매일 단어 하나하나를 연습했기 때문이에요. 조금씩 자신감이 생겼어요",
+        "english": "Not because I memorized, but because I practiced each word every day. Slowly, I gained confidence",
+        "spanish": "No porque lo memorizara, sino porque practicaba cada palabra cada día. Poco a poco gané confianza",
+        "french": "Pas parce que je l'ai mémorisé, mais parce que je pratiquais chaque mot chaque jour. Peu à peu, j'ai pris confiance",
+        "chinese": "不是因为背诵，而是因为我每天练习每一个词。渐渐地，我有了信心",
+        "dutch": "Niet omdat ik het uit het hoofd leerde, maar omdat ik elke dag elk woord oefende. Langzaam kreeg ik vertrouwen",
+        "german": "Nicht weil ich es auswendig lernte, sondern weil ich jeden Tag jedes Wort übte. Nach und nach bekam ich Selbstvertrauen"
+      }
+    },
+    {
+      "level": 18,
+      "content": {
+        "korean": "에마누엘은 매주 일요일 교회에 도착했고, 피아노 소리와 인사, 커피 향을 느꼈어요. 말의 온도와 믿음의 마음을 조금씩 알기 시작했어요",
+        "english": "Every Sunday, Emanuel arrived at church, hearing the piano, greetings, and the smell of coffee. He began to understand the warmth and faith in words",
+        "spanish": "Cada domingo, Emanuel llegaba a la iglesia, oía el piano, los saludos y el aroma del café. Comenzó a comprender el calor y la fe en las palabras",
+        "french": "Chaque dimanche, Emanuel arrivait à l'église, entendait le piano, les salutations et l'odeur du café. Il commençait à comprendre la chaleur et la foi dans les mots",
+        "chinese": "每个星期天，埃马努埃尔到达教堂，听到钢琴声、问候声和咖啡香。他开始理解语言中的温暖与信仰",
+        "dutch": "Elke zondag kwam Emanuel in de kerk aan, hoorde de piano, begroetingen en de geur van koffie. Hij begon de warmte en het geloof in woorden te begrijpen",
+        "german": "Jeden Sonntag kam Emanuel in der Kirche an, hörte das Klavier, die Grüße und den Kaffeeduft. Er begann, die Wärme und den Glauben in den Worten zu verstehen"
+      }
+    },
+    {
+      "level": 19,
+      "content": {
+        "korean": "그는 처음에는 이해하지 못했지만, 듣고 따라하며 배웠어요. 소리가 모양을 가지기 시작했고, 사람들이 감사할 때, 기도할 때, 웃을 때를 구별할 수 있었어요. 예배 시간과 카페, 복도에서 짧은 대화를 나누며 자연스럽게 말할 수 있게 되었어요",
+        "english": "At first he didn't understand, but he listened and repeated to learn. Sounds began to take shape, and he could tell when people were thankful, praying, or laughing. During worship, in the café, and in the hall, he began to speak naturally",
+        "spanish": "Al principio no entendía, pero escuchó y repitió para aprender. Los sonidos empezaron a tomar forma, y pudo distinguir cuándo la gente daba gracias, oraba o reía. Durante el culto, en la cafetería y en el pasillo, empezó a hablar con naturalidad",
+        "french": "Au début, il ne comprenait pas, mais il a écouté et répété pour apprendre. Les sons ont commencé à prendre forme, et il pouvait distinguer quand les gens remerciaient, priaient ou riaient. Pendant le culte, au café et dans le couloir, il a commencé à parler naturellement",
+        "chinese": "一开始他听不懂，但通过倾听和模仿学习。声音开始有了形状，他能分辨人们是在感恩、祈祷还是在笑。在礼拜、咖啡厅和走廊里，他开始自然地说话",
+        "dutch": "In het begin begreep hij het niet, maar hij luisterde en herhaalde om te leren. Geluiden begonnen vorm te krijgen, en hij kon zien wanneer mensen dankbaar waren, baden of lachten. Tijdens de dienst, in het café en in de gang begon hij natuurlijk te spreken",
+        "german": "Am Anfang verstand er es nicht, aber er hörte zu und wiederholte, um zu lernen. Die Geräusche begannen Gestalt anzunehmen, und er konnte erkennen, wann die Menschen dankbar waren, beteten oder lachten. Während des Gottesdienstes, im Café und im Flur begann er natürlich zu sprechen"
+      }
+    },
+    {
+      "level": 20,
+      "content": {
+        "korean": "매주 일요일, 에마누엘은 교회에 일찍 도착했다. 피아노 소리와 따뜻한 인사 “안녕하세요!” 그리고 갓 내린 커피 향이 그를 감쌌다. 그는 모든 단어를 이해하지 못했지만, 말의 온도와 믿음의 마음을 느낄 수 있었다. 처음에는 그저 소음처럼 들렸지만, 그는 그 자리에 머물렀다. 듣고, 또 들으며 마음으로 배우기 시작했다.\n\n시간이 지나자, 소리가 모양을 가지기 시작했다. 에마누엘은 사람들이 감사할 때, 기도할 때, 웃을 때를 구별할 수 있게 되었다. 그는 짧은 말을 따라 하기 시작했다. “감사합니다”, “기도해요”. 책으로 외우는 것이 아니라, 삶 속에서 느끼며 배웠다. 예배 시간, 교회 카페, 복도에서 나누는 짧은 대화 속에서 그의 목소리는 점점 흔들리지 않았다.\n\n이제 에마누엘은 교회 카페에서 한 형제에게 커피를 건네며 자연스럽게 이야기한다. 외워서가 아니라, 매일매일, 단어 하나하나 훈련했기 때문이다. 그는 깨달았다. 언어를 배우는 것은 공부가 아니라 기도와 같다고 — 반복하고, 느끼고, 어느 날엔가 그것이 자신의 목소리가 되는 것이다.",
+        "english": "Every Sunday, Emanuel arrived early at church. The sound of the piano, the warm greeting 'Annyeonghaseyo!', and the aroma of freshly brewed coffee surrounded him. He couldn't understand every word, but he could feel the warmth of speech and the heart of faith. At first, it all sounded like noise, but he stayed. Listening again and again, he began to learn with his heart.\n\nAs time passed, the sounds began to take shape. Emanuel could tell when people were thankful, when they prayed, and when they laughed. He began to repeat short words: 'Thank you', 'Let's pray.' He didn't memorize from books; he learned through life itself. During worship, in the church café, and in short hallway talks, his voice grew steadier.\n\nNow, Emanuel hands a coffee to a brother at the church café and speaks naturally. Not because he memorized, but because each day, word by word, he trained his heart. He realized that learning a language is not study but prayer — repeating, feeling, and one day, it becomes your own voice.",
+        "spanish": "Cada domingo, Emanuel llegaba temprano a la iglesia. El sonido del piano, el saludo cálido '¡Annyeonghaseyo!' y el aroma del café recién hecho lo envolvían. No entendía todas las palabras, pero sentía el calor de las voces y la fe en el corazón. Al principio, todo le sonaba como ruido, pero permaneció allí. Escuchando una y otra vez, comenzó a aprender con el corazón.\n\nCon el tiempo, los sonidos empezaron a tomar forma. Ema podía reconocer cuándo la gente daba gracias, oraba o reía. Empezó a repetir palabras cortas: 'Gracias', 'Oremos'. No lo memorizaba de los libros; lo aprendía viviéndolo. Durante el culto, en la cafetería de la iglesia y en los breves diálogos del pasillo, su voz se volvió más firme.\n\nAhora, él entrega un café a un hermano en la cafetería de la iglesia y habla con naturalidad. No porque lo memorizara, sino porque cada día, palabra por palabra, entrenó su corazón. Comprendió que aprender un idioma no es estudiar, sino orar: repetir, sentir, y un día, se convierte en tu propia voz.",
+        "french": "Chaque dimanche, Emanuel arrivait tôt à l'église. Le son du piano, le chaleureux 'Annyeonghaseyo !' et l'arôme du café fraîchement préparé l'entouraient. Il ne comprenait pas tous les mots, mais il ressentait la chaleur des paroles et la foi dans le cœur. Au début, tout lui semblait du bruit, mais il resta. En écoutant encore et encore, il commença à apprendre avec le cœur.\n\nAvec le temps, les sons commencèrent à prendre forme. Emanuel pouvait reconnaître quand les gens étaient reconnaissants, priaient ou riaient. Il commença à répéter de petits mots : 'Merci', 'Prions.' Il ne les apprenait pas dans les livres ; il les vivait. Pendant le culte, au café de l'église et dans les couloirs, sa voix devint plus assurée.\n\nÀ présent, Emanuel tend un café à un frère dans le café de l'église et parle naturellement. Pas parce qu'il a mémorisé, mais parce que, chaque jour, mot après mot, il a exercé son cœur. Il comprit qu'apprendre une langue n'est pas étudier, mais prier : répéter, ressentir, et un jour, cela devient sa propre voix.",
+        "chinese": "每个星期天，埃马努埃尔都会早早来到教堂。钢琴声、温暖的问候“你好”，以及新煮咖啡的香气包围着他。他并不能听懂每个词，但能感受到语言的温度与信仰的心意。起初，一切听起来只是噪音，但他留下来。一次又一次地聆听，他开始用心去学习。\n\n随着时间的流逝，声音开始有了形状。埃马努埃尔能分辨人们何时感恩、祈祷或欢笑。他开始模仿短语: “谢谢”、“我们祈祷吧”。他不是从书本中背诵，而是在生活中感受学习。在礼拜中、教堂咖啡厅和走廊里的短暂交谈中，他的声音变得越来越稳。\n\n现在，埃马努埃尔在教堂咖啡厅里把咖啡递给一位弟兄，自然地交谈。这并非因为背诵，而是因为他每天都在练习，一词一句地训练自己的心。他明白了，学习语言不是学习，而是祈祷——重复、感受，终有一天，那将成为他自己的声音。",
+        "dutch": "Elke zondag kwam Emanuel vroeg aan in de kerk. Het geluid van de piano, de warme groet 'Annyeonghaseyo!' en de geur van versgezette koffie omringden hem. Hij begreep niet elk woord, maar voelde de warmte van de taal en het hart van het geloof. In het begin klonk alles als lawaai, maar hij bleef. Door steeds weer te luisteren, begon hij met zijn hart te leren.\n\nNa verloop van tijd begonnen de geluiden vorm te krijgen. Emanuel kon zien wanneer mensen dankbaar waren, baden of lachten. Hij begon korte woorden te herhalen: 'Dank je', 'Laten we bidden.' Hij leerde niet uit boeken, maar door het te beleven. Tijdens de dienst, in het kerkcafé en in korte gesprekken in de gang werd zijn stem steeds zekerder.\n\nNu geeft Emanuel een broer in het kerkcafé koffie en spreekt hij natuurlijk. Niet omdat hij het uit het hoofd leerde, maar omdat hij elke dag, woord voor woord, zijn hart trainde. Hij besefte dat een taal leren geen studie is, maar een gebed — herhalen, voelen, en op een dag wordt het je eigen stem.",
+        "german": "Jeden Sonntag kam Emanuel früh in die Kirche. Der Klang des Klaviers, die warme Begrüßung „Annyeonghaseyo!“ und der Duft von frisch gebrühtem Kaffee umgaben ihn. Er verstand nicht jedes Wort, aber er spürte die Wärme der Sprache und das Herz des Glaubens. Am Anfang klang alles wie Lärm, aber er blieb. Durch wiederholtes Zuhören begann er mit dem Herzen zu lernen.\n\nMit der Zeit begannen die Klänge Gestalt anzunehmen. Emanuel konnte erkennen, wann die Menschen dankbar waren, beteten oder lachten. Er begann, kurze Worte zu wiederholen: „Danke“, „Lasst uns beten.“ Er lernte nicht aus Büchern, sondern durch das Leben selbst. Während des Gottesdienstes, im Kirchencafé und in kurzen Gesprächen auf dem Flur wurde seine Stimme immer sicherer.\n\nJetzt reicht Emanuel einem Bruder im Kirchencafé eine Tasse Kaffee und spricht ganz natürlich. Nicht, weil er es auswendig gelernt hat, sondern weil er jeden Tag, Wort für Wort, sein Herz geübt hat. Er erkannte, dass das Erlernen einer Sprache kein Studium, sondern ein Gebet ist - wiederholen, fühlen, und eines Tages wird es zu seiner eigenen Stimme."
+      }
+    }
+  ]
+}

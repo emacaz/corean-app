@@ -1,0 +1,7 @@
+# Python dependencies for Coqui TTS service.
+# 
+# Responsibilities:
+# - List the required Python libraries (e.g., TTS, torch, soundfile).
+# - Allow reproducible environment setup via: pip install -r requirements.txt
+#
+# Keeps AI/ML dependencies isolated from Node backend dependencies.
